@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class PaintEstimator {
+public class PaintEstimator {
+    public static void main(String[] args) {
+//
+    }
 }
