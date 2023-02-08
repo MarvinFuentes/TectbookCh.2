@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e5bedc6-e837-463c-9120-666464153b18" name="Changes" comment="">
+    <list default="true" id="0e5bedc6-e837-463c-9120-666464153b18" name="Changes" comment="added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CircleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PaintEstimator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PaintEstimator.java" afterDir="false" />
@@ -46,9 +46,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TimeConverter">
+  <component name="RunManager" selected="Application.PaintEstimator">
     <configuration name="CircleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleCalculator" />
+      <module name="TectbookCh.2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TectbookCh.2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaintEstimator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PaintEstimator" />
       <module name="TectbookCh.2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,6 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PaintEstimator" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TimeConverter" />
         <item itemvalue="Application.CircleCalculator" />
       </list>
@@ -79,11 +95,24 @@
       <workItem from="1675725778560" duration="1763000" />
       <workItem from="1675727942584" duration="40000" />
       <workItem from="1675728016363" duration="8984000" />
-      <workItem from="1675782135532" duration="1462000" />
+      <workItem from="1675782135532" duration="7821000" />
+      <workItem from="1675824054887" duration="5986000" />
     </task>
+    <task id="LOCAL-00001" summary="added">
+      <created>1675788580939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675788580939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
   </component>
 </project>

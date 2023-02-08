@@ -3,6 +3,8 @@
  * @aurthor: Marvin Fuentes
  * @course: ITEC 2140 section 4
  * @written: February 6, 2023
+ * This program will find the base area of a cylinder and volume of
+ * cylinder based off of what radius the user enters.
  */
 import java.util.Scanner;
 public class CircleCalculator {
